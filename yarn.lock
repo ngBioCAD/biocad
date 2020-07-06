@@ -18,10 +18,10 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
-"@biocad/jfw@^0.4.0":
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/@biocad/jfw/-/jfw-0.4.0.tgz#af805450aa0fde1d728225083fa3d100632d67b0"
-  integrity sha512-8ni2XltH1lPivp5Jyat+QtCudMiVGPFuvAz1oL0qVFYMm7fKuUBJmLKD+RbHlDLmkbwtiWg9QXuo7mMMr2bueQ==
+"@biocad/jfw@^0.5.0":
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/@biocad/jfw/-/jfw-0.5.0.tgz#20f37253cfa69b62bdf9b8296afebc62a1383ce0"
+  integrity sha512-/77KA4ausAp9r0dJVZMiwFiIuz4UTm3Zk03vvMwmY8cSPgjIZItbVIwPX0yGPdax/cIV8QdGKxy/FWlYp5jR7A==
   dependencies:
     "@types/codemirror" "0.0.76"
     almost-equal "^1.1.0"
@@ -2753,9 +2753,9 @@ jclass@^1.0.1:
   integrity sha1-6q/uwN1qW/iz6kPATgEMY3Y4dos=
 
 jquery@^3.1.0:
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.4.1.tgz#714f1f8d9dde4bdfa55764ba37ef214630d80ef2"
-  integrity sha512-36+AdBzCL+y6qjw5Tx7HgzeGCzC81MDDgaUP8ld2zhx58HdqXGoBd+tHdrBMiyjGQs0Hxs/MLZTu/eHNJJuWPw==
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.5.0.tgz#9980b97d9e4194611c36530e7dc46a58d7340fc9"
+  integrity sha512-Xb7SVYMvygPxbFMpTFQiHh1J7HClEaThguL15N/Gg37Lri/qKyhRGZYzHRyLH8Stq3Aow0LsHO2O2ci86fCrNQ==
 
 js-tokens@^4.0.0:
   version "4.0.0"
